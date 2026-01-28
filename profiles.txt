@@ -1,4 +1,4 @@
-Steve - 34 -M
-Mike - 20 -M
-Anna - 22 - F
-Bob -40 - M
+Steve - 34 - M - Gold
+Mike - 20 - M - Platinum
+Anna - 22 - F - Silver
+Bob - 40 - M - Diamond
